@@ -11,3 +11,6 @@ Instructions to run the program (i.e. CP1):
 3. Compile all java files by keying in the command $javac ClientCP1 followed by $javac ServerCP1 in the terminal, there will be 2 files generated - ClientCP1.class,, ServerCP1.class,
 4. On one terminal, run the server first by keying in the command $java ServerCP1 
 5. On the other terminal, key in $java ClientCP1 and observe the files being uploaded to the server 
+
+
+100% Success, Works On Buggy Text Too
