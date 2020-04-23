@@ -1,0 +1,13 @@
+README
+
+Phang Teng Fone 1003296 
+Gerald Lim 1003371 
+
+Instructions to run the program (i.e. CP1): 
+1. Navigate to the folder Programming Assignment 2 
+2. Ensure that the files to be uploaded are in the same folder 
+3. To edit the filename , go to ClientCP1.java and edit the variable String filename = {"_FILENAME_"} and save the file 
+2. Open 2 terminals, one for server and the other for the client program 
+3. Compile all java files by keying in the command $javac ClientCP1 followed by $javac ServerCP1 in the terminal, there will be 2 files generated - ClientCP1.class,, ServerCP1.class,
+4. On one terminal, run the server first by keying in the command $java ServerCP1 
+5. On the other terminal, key in $java ClientCP1 and observe the files being uploaded to the server 

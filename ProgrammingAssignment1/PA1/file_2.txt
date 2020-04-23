@@ -1,3 +1,0 @@
-Hello
-
-This is another line with space above.
